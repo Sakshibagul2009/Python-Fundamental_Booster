@@ -1,0 +1,17 @@
+Welcome to the Interactive Personal Data Collector!
+
+Please enter your name:  sakshi bagul
+Please enter your age:  16
+Please enter your height in meters:  23
+Please enter your favourite number:  4
+
+Thank you! Here is the information we collected:
+
+Name: sakshi bagul Type: <class 'str'> Memory Address: 2015905585136
+Age: 16 Type: <class 'int'> Memory Address: 140708038026632
+Height: 23.0 Type: <class 'float'> Memory Address: 2015904574032
+Favourite Number: 4 Type: <class 'int'> Memory Address: 140708038026248
+
+Your birth year is approximately: 2009 (based on your age of: 16
+
+Thank you for using the Personal Data Collector. Goodbye!
